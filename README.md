@@ -1,0 +1,2 @@
+# Saver project
+This project intends to offer a compact solution to easily backup small and frequently accessed data. It does not offer any storage in and by itself, but it is meant as an orchestrator of a backup plan using multiple services and locations, ensuring the synchronization and duplicity o all files.
