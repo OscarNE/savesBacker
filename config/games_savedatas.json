@@ -1,0 +1,24 @@
+{
+    "numberOfEntries": 0,
+    "entries": [
+        {
+            "id": "1",
+            "name": "MHR",
+            "sourcePath": "MHRpath",
+            "backupMethod": [
+                "dropbox",
+                "gdrive"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Factorio",
+            "sourcePath": "Factoriopath",
+            "backupMethod": [
+                "external drive",
+                "megaSync",
+                "dropbox"
+            ]
+        }
+    ]
+}
